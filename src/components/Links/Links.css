@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+  font-family: 'Poppins';font-size: 20px;
+  color: #f36c17;
+  background-color: #303030;
+}
+.name .profile{
+  color: #f36c17 !important;
+}
+.card-body{
+    margin: 0 auto;
+    text-align: left;
+    width: 80%;
+  }
+a{
+    font-size: large;
+    color:#c0a695 !important;
+}

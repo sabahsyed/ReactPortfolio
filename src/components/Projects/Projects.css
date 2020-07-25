@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+  font-family: 'Poppins';font-size: 20px;
+  color: #f36c17;
+  background-color: #303030;
+}
+.name .profile{
+  color: #f36c17 !important;
+}
+
+.projectMargin{
+    margin: 50px;
+    text-align: center;
+}
+iframe{
+    position: relative;
+    width:600px;
+    height:200px;
+}
+.projectName{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}

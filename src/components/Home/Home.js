@@ -15,9 +15,9 @@ export class Home extends Component {
                                 passion for coding and would like to turn this into a career I always wanted to have. 
                                 Feel free to look at my most recent work. 
                                 <p />
-                        <div className = "col-md-6">
-                            <img className="myImage" src={myImage} alt="SabahSyed"  />
                         </div>
+                        <div className = "col-md-6">
+                            <img className="myImage" src={myImage} alt="SabahSyed"   />
                         </div>
                     </div>
             </div>

@@ -7,7 +7,7 @@ export class Projects extends Component {
                 <div className="bodyContainer">
         </div>
         <div className ="container">
-            <div className = "row projectMargsin">
+            <div className = "row projectMargin">
                 <div className = "col-sm-6">
                    <h3 className = "animate__animated animate__fadeIn">Sentiment Check ! </h3>
                     <p className = "animate__animated animate__fadeIn">A message board that incorporates Google Natural Language API for sentiment analysis. We have a fun app that allows a user to post a message and the API we have used analyses the message and gives us a score/emoji showing what the nature of the message was(Positive/Negative). Sentiment analysis is the process of extracting key phrases and words from text to understand the user’s attitude and emotions.</p>
@@ -31,7 +31,7 @@ export class Projects extends Component {
                 </div>
             </div>
             <div className = "row  projectMargin">
-                <div className = "col-sm-6">
+                <div className = "col-sm-6 projectName">
                     <h3 className = "animate__animated animate__fadeIn">Weather Dashboard</h3>
                     <p className = "animate__animated animate__fadeIn">The weather dashboard as the name implies allows a user to know the current weather of a city and 
                         also other properties like temperature, humidity , windspeed etc. It also shows the future 5 day forecast
@@ -78,7 +78,7 @@ export class Projects extends Component {
                     <p className = "animate__animated animate__fadeIn"><b>Github Repo Link :</b></p><a href = "https://github.com/sabahsyed/NoteTaker-Express">GitHub Repo</a>
                 </div>
                 <div className = "col-sm-6">
-                    <iframe src="https://drive.google.com/file/d/1ROGfQ3K4-ruh0r_-Na5d02rERrudtsWI/preview"></iframe>
+                    <iframe title  = "Notetaker Express" src="https://drive.google.com/file/d/1ROGfQ3K4-ruh0r_-Na5d02rERrudtsWI/preview"></iframe>
                 </div>
             </div>
         </div>
