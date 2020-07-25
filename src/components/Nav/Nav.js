@@ -9,7 +9,8 @@ function Nav() {
   const location = useLocation();
 
   return (
-    <ul className="nav nav-tabs">
+    <div className = "navUl">
+    <ul className="nav justify-content-center navCustom ">
       <li className="nav-item">
         <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
           Home
@@ -40,7 +41,11 @@ function Nav() {
         </Link>
       </li>
     </ul>
+    </div>
+  
   );
+
+  
 }
 
 export default Nav;

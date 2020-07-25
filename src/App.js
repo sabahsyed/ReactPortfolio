@@ -14,6 +14,7 @@ function App() {
   return (
     <Router>
         <Nav />
+        <Route exact path="/Home" component={Home} />
         <Route exact path="/" component={Home} />
         <Route exact path="/Resume" component={Resume} />
         <Route exact path="/Projects" component={Projects} />

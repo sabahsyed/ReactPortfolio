@@ -13,6 +13,7 @@ body{
 
 }
 img{
+    margin-top: 100px;
     border-radius: 5%;
     width: 400px;
     height: 400px;
@@ -20,7 +21,8 @@ img{
     
 }
 .aboutMe{
-    margin-top:70px;
-    margin :5px;
-   text-align:center;
+  margin-top:150px;
+  left:40px;
+   float:left;
+   text-align: justify center;
 }

@@ -9,12 +9,19 @@ body{
 .name .profile{
   color: #f36c17 !important;
 }
-.card-body{
+/* .card-body{
     margin: 0 auto;
     text-align: left;
     width: 80%;
-  }
+  } */
 a{
     font-size: large;
     color:#c0a695 !important;
+}
+.links{
+  margin-top:15%;
+  text-align: justify center;
+  
+  
+ 
 }

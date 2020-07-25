@@ -5,7 +5,11 @@ export class Resume extends Component {
     render() {
         return (
             <div>
-               <iframe title = "sabahSyedResume" src={resume}> Resume</iframe>
+                <div className = "row">
+                    <div className = "col-md-12">
+                    <iframe title = "sabahSyedResume" src={resume}> Resume</iframe>
+                    </div>
+                </div>
             </div>
         )
     }

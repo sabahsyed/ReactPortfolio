@@ -1,9 +1,15 @@
 .footer{
-    position: absolute;
+    position: fixed;
     bottom: 0;
-    overflow: auto;
-    width: 100%;
-    height: 2.5rem;      
+    width :100%;
     text-align: center;
-    
+    height: 2.5rem;    
+    color :cornsilk;
+}
+
+.ref{
+    margin:7px;
+}
+a{
+    color:cornsilk ;
 }
