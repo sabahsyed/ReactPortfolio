@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+  font-family: 'Poppins';font-size: 20px;
+  color: #f36c17;
+  background-color: #303030;
+}
+.name .profile{
+  color: #f36c17 !important;
+}
+#sabahImg,img {
+  height:400px; 
+  width:400px; 
+  border-radius: 50%; 
+  margin: 50px;
+}
+.jumbotron {
+  color:#f4f5f4;
+  background-color:#c0a695 !important;
+}
+.aboutMe{
+  margin-top:70px;
+  left:10%;
+}
+.card-body{
+  margin: 0 auto; 
+  float: none; 
+  margin-bottom: 10px; 
+  margin-left:40%;
+  
+}
+a{
+  font-size: large;
+  color:#c0a695 !important;
+}
+.projectMargin{
+  margin: 50px;
+  text-align: center;
+}
