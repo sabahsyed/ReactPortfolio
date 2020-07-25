@@ -11,12 +11,12 @@ function Nav() {
   return (
     <div className = "navUl">
     <ul className="nav justify-content-center navCustom ">
-      <li className="nav-item">
+      <li className="nav-item animate__animated animate__fadeIn">
         <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
           Home
         </Link>
       </li>
-      <li className="nav-item">
+      <li className="nav-item animate__animated animate__fadeIn">
         <Link
           to="/Resume"
           className={location.pathname === "/Resume" ? "nav-link active" : "nav-link"}
@@ -24,7 +24,7 @@ function Nav() {
           Resume
         </Link>
       </li>
-      <li className="nav-item">
+      <li className="nav-item animate__animated animate__fadeIn">
         <Link
           to="/Projects"
           className={location.pathname === "/Projects" ? "nav-link active" : "nav-link"}
@@ -32,7 +32,7 @@ function Nav() {
           Projects
         </Link>
       </li>
-      <li className="nav-item">
+      <li className="nav-item animate__animated animate__fadeIn">
         <Link
           to="/Links"
           className={location.pathname === "/Links" ? "nav-link active" : "nav-link"}
