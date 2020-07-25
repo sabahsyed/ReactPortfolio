@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Portfolio
 
 ## About 
@@ -12,14 +11,12 @@ This is my portfolio but with REACT. It implements basic REACT routing to show h
 * npm
 
 ## Screenshots
-![Screenshots](src/components/Screenshots/Screen Shot 2020-06-27 at 12.48.49 PM.png)
-![Screenshots](src/components/Screenshots/Screen Shot 2020-07-24 at 8.47.33 PM.png)
-![Screenshots](src/components/Screenshots/Screen Shot 2020-07-24 at 8.48.50 PM.png)
-![Screenshots](src/components/Screenshots/Screen Shot 2020-07-24 at 8.49.08 PM.png)
+![Screenshots](src/components/Screenshots/ScreenShot2020-06-27at12.48.49PM.png)
+![Screenshots](src/components/Screenshots/ScreenShot2020-07-24at8.47.33PM.png)
+![Screenshots](src/components/Screenshots/ScreenShot2020-07-24at8.48.50PM.png)
+![Screenshots](src/components/Screenshots/ScreenShot2020-07-24at8.49.08PM.png)
 ![GIF](src/components/Screenshots/reactPortfolio.gif)
 
 ## Deployed Link
 
-=======
-# ReactPortfolio
->>>>>>> f0f4c4c16e6088899756106d92761f07c4c838f6
+https://sabahsyed.github.io/ReactPortfolio/
