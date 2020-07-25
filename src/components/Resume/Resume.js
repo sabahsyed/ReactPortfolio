@@ -5,7 +5,7 @@ export class Resume extends Component {
     render() {
         return (
             <div>
-               <a class="nav-link active animate__animated animate__backInRight" href={resume}>Resume</a> 
+               <iframe title = "sabahSyedResume" src={resume}> Resume</iframe>
             </div>
         )
     }
