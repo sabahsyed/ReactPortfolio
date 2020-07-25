@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Portfolio
 
 ## About 
@@ -19,3 +20,6 @@ This is my portfolio but with REACT. It implements basic REACT routing to show h
 
 ## Deployed Link
 
+=======
+# ReactPortfolio
+>>>>>>> f0f4c4c16e6088899756106d92761f07c4c838f6
